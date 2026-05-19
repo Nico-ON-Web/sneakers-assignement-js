@@ -11,12 +11,12 @@
     {
       "nom": "Sneakers Classic",
       "description": "Adoptez le style classique avec nos sneakers éco-sourcés. Conçues avec des matériaux recyclés, elles allient confort, durabilité et élégance.",
-      "imageUrl": "https://nico-on-web.github.io/sneakers-assignement-js/images/paire1-removebg-preview.png"
+      "imageUrl": "https://nico-on-web.github.io/sneakers-assignement-js/images/paire1.png"
     },
     {
       "nom": "Sneakers Urbaines",
       "description": "Affirmez votre style urbain avec nos sneakers tendance. Des designs modernes fabriqués de manière éthique pour une empreinte écologique réduite.",
-      "imageUrl": "https://nico-on-web.github.io/sneakers-assignement-js/images/paire2-removebg-preview.png"
+      "imageUrl": "https://nico-on-web.github.io/sneakers-assignement-js/images/paire2.png"
     },
     {
       "nom": "Sneakers Légères",
@@ -36,7 +36,7 @@
     {
       "nom": "Sneakers Minimal Éco",
       "description": "Misez sur l’essentiel avec nos sneakers minimalistes éco-responsables. Un design épuré, des lignes sobres et des matériaux recyclés pour un style intemporel et une empreinte environnementale réduite.",
-      "imageUrl": "https://nico-on-web.github.io/sneakers-assignement-js/images/paire6-removebg-preview.png"
+      "imageUrl": "https://nico-on-web.github.io/sneakers-assignement-js/images/paire6.png"
     }
   ],
   "services": [
